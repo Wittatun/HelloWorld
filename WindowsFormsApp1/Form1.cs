@@ -28,8 +28,7 @@ namespace WindowsFormsApp1
         {
 
             bool isapprunning = false;
-            System.Threading.Mutex mutex = new System.Threading.Mutex(true, System.Diagnostics.Process.GetCurrentProcess().ProcessName,
-            out isapprunning);
+            System.Threading.Mutex mutex = new System.Threading.Mutex(true, System.Diagnostics.Process.GetCurrentProcess().ProcessName, out isapprunning);
             if (!isapprunning)
             {
                 MessageBox.Show("本程序已经在运行了，请不要重复运行！");

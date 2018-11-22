@@ -7,3 +7,13 @@ E:\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.reso
 E:\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 E:\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Project\GitHub\HelloWorld\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
